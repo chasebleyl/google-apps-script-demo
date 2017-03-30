@@ -1,5 +1,5 @@
 
-n checkFiles() {
+function checkFiles() {
   // Select current spreadsheet that we will work with
   var currentSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   
